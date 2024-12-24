@@ -1,0 +1,2 @@
+tif_image_name	bridge_up (y)	bridge_dn (y)	profil_cone_up (y)	profil_cone_dn (y)	profil_left (x)	profil_right (x)	alpha_left	alpha_right	yc	yl (mm)		theta cone left	theta cone right	theta plate left	theta plate right	theta_cone_moy	theta_plate_moy	alpha_moy	yl (ml)
+image1	2612	2673	2366	2336	1346	1855	0.754839993119949	0.7682159756739219	6.452898550724638	0.7318840579710144		131.85006015466087	131.75753672707185	4.160602757435838	176.98934902833042

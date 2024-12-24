@@ -1,0 +1,21 @@
+LOWER TRIPLE POINTS
+====================
+Left derivative on solid phase: -0.95201067
+Right derivative on solid phase: 1.0
+Alpha left: 0.7608185526668948 radians
+Alpha right: 0.7853981633974483 radians
+yc: 0.7318840579710144 m
+yl: 218 pixels
+yl: 0.0015797101449275361 m
+yl: 1.5797101449275361 mm
+====================
+Minimum width at 2607 pixels
+Maximum width at 2449 pixels
+NO local extremum for the bridge profile
+====================
+CONTACT ANGLES
+====================
+Theta cone left: 50.457862816640734 degrees
+Theta cone right: 3.6542777520403216 degrees
+Theta plate left: 47.3180740277809 degrees
+Theta plate right: 170.0245436509838 degrees
